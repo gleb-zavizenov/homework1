@@ -1,2 +1,2 @@
 # homework1
-Zavizenov_Gleb-Inderjit_Saini_Homework1
+Zavizenov_Gleb-Inderjit_Singh_Homework1
